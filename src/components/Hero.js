@@ -22,7 +22,7 @@ function Hero() {
 
                 <div className='lg:w-1/3 ' >
 
-                    <img src={heroanime2} alt="" className='lg:hidden flex rotate-3 top-[-112px] left-[93px] w-[197px]  absolute  z-0' />
+                    <img src={heroanime2} alt="" className='lg:hidden flex rotate-3 top-[-150px] left-[93px] w-[197px]  absolute  z-0' />
 
                     <img src={heroanime} alt="" className='hidden lg:flex  w-[504px] mr-[-199px]  ' />
 

@@ -12,7 +12,7 @@ function Computermobile() {
             <div className="flex flex-col relative mt-[57px] items-center">
 
                 <img src={skoolsucks} alt="" className='w-[400px] z-20' />
-                <img src={groupskool} alt="" className='absolute w-[876px] max-w-none z-10 top-0 opacity-35' />
+                <img src={groupskool} alt="" className='absolute w-96 max-w-none z-10 top-0 opacity-35' />
 
             </div>
 
