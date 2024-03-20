@@ -4,7 +4,7 @@ import skoolx from '../assets/skoolx.svg'
 
 function Socials() {
     return (
-        <div className='SOCIALS text-[#D6C6B6] flex flex-col items-center justify-center mt-20 '>
+        <div className='SOCIALS text-[#D6C6B6] flex flex-col items-center justify-center mt-20 lg:mt-40 '>
 
             <h3 className='text-6xl lg:text-9xl -rotate-12'>
                 SOCIALS
