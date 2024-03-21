@@ -48,8 +48,8 @@ function Tokenomicsmobile() {
                     <div className="things somethingolde mt-14s flex flex-row justify-around sborder-2 w-full">
 
                         <div className="liquidity ">
-                            <p className='text-4xl -rotate-6  mb-4'>LIQUIDITY</p>
-                            <p className='text-6xl rotate-6'>LOCKED</p>
+                            <p className='text-4xl -rotate-3  mb-4'>LIQUIDITY</p>
+                            <p className='text-4xl rotate-3'>LOCKED AND BURNED</p>
                             {/* <p className='text-6xl rotate-6'>MINT DISABLED</p> */}
                         </div>
 

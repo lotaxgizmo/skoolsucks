@@ -17,13 +17,13 @@ function Tokenomics() {
                     <div className="supply ">
                         <p className='text-6xl -rotate-12 mb-28'>TOKEN SUPPLY</p>
                         <p className='text-6xl rotate-12'>1,000,000,000</p>
-                        <p className='text-2xl -rotate-12'>BURNT</p>
+                        {/* <p className='text-2xl -rotate-12'>BURNT</p> */}
                     </div>
 
 
-                    <div className="liquidity ">
+                    <div className="liquidity flex flex-col items-end">
                         <p className='text-6xl rotate-12 mb-10'>LIQUIDITY</p>
-                        <p className='text-6xl -rotate-12 mb-28'>LOCKED</p>
+                        <p className='text-6xl -rotate-3 mb-24'>LOCKED AND BURNED</p>
                         <p className='text-2xl rotate-12'>MINT DISABLED</p>
                     </div>
                 </div>

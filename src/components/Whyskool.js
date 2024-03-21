@@ -16,7 +16,9 @@ function Whyskool() {
 
                 <div className="lg:w-1/2 right px-10 text-white">
                     <img src={threelogo} alt="" />
-                    <p className='w-[20px]x text-[35px] lg:text-[35px] lg:rotate-[10deg]' >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum consequatur itaque dolor eius doloremque laboriosam modi cupiditate. </p>
+                    <p className='w-[20px]x text-[35px] lg:text-[35px] lg:rotate-[10deg]' >Remember me? You used to draw me all the time when you were a kid.
+
+                        Now that’s you’re all grown up, you can do cool adult things like buying me on the Solana blockchain.</p>
                     <img src={buybtn2} alt="" />
 
                 </div>

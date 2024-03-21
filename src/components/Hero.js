@@ -16,7 +16,7 @@ function Hero() {
         <div className='HERO flex flex-col items-center relative mt-5'>
             <img src={heroboard} alt="" className='w-[1217px] absolute z-[-1]' />
 
-            <img src={skoolsucks} alt="" className=' w-[835px] z-10' />
+            <img src={skoolsucks} alt="" className='w-[321px] lg:w-[722px] z-10' />
 
             <div className="three flex flex-row justify-around relative lg:w-[1171px]  z-10d">
 
